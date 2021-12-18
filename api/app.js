@@ -1,7 +1,7 @@
 const { Index, Document, Worker } = require("flexsearch");
 const nodejieba = require("nodejieba");
 const readline = require('readline');
-const Koa = require('koa');
+const Koa = require('koa2');
 const KoaStatic = require("koa-static")
 const Router = require('koa2-router')
 const app = new Koa();
