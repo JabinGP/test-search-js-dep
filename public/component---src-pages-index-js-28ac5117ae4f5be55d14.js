@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunktest_search=self.webpackChunktest_search||[]).push([[678],{7704:function(e,t,l){l.r(t);var n=l(7294);t.default=function(){return n.createElement("main",null,n.createElement("title",null,"Home Page"),n.createElement("h1",null,"Welcome to My site!"),n.createElement("p",null,"I'm making this by following the Gatsby Tutorial."))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-28ac5117ae4f5be55d14.js.map
