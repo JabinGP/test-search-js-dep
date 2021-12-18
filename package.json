@@ -1,0 +1,28 @@
+{
+    "name": "test-search",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "gatsby build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@mdx-js/mdx": "^1.6.22",
+        "@mdx-js/react": "^1.6.22",
+        "flexsearch": "^0.7.21",
+        "gatsby": "^4.4.0",
+        "gatsby-plugin-json": "^1.0.0",
+        "gatsby-plugin-mdx": "^3.4.0",
+        "gatsby-source-filesystem": "^4.4.0",
+        "koa-static": "^5.0.0",
+        "koa2": "^2.0.0-alpha.7",
+        "koa2-router": "^2.0.1",
+        "nodejieba": "^2.5.2",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    }
+}
